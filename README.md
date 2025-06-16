@@ -1,16 +1,40 @@
-## Hi there 👋
+# Hi, I'm cnoom 👾
 
-<!--
-**cnoom/cnoom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎮 **独立游戏开发者 | Indie Game Developer**  
+专注于使用 Unity 和 C# 进行游戏创作，热爱用代码打造有趣的世界。
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ 主要技能
+
+- **C#**：高效、优雅的编程体验
+- **Unity**：灵感与技术的碰撞
+- **CFramework**：自主研发的 Unity 框架库，助力高效开发
+
+---
+
+## 🚀 代表项目
+
+- **CFramework**  
+  自主设计与开发的 Unity 框架库，专为独立游戏开发者打造，兼顾灵活性与高性能。
+
+---
+
+## 💬 关于我
+
+- 喜欢探索游戏开发的无限可能
+- 追求代码的极致简洁与高效
+- 坚持用技术表达创意
+
+---
+
+## 📫 联系方式
+
+- QQ: 1195582817
+- 邮箱: cnoom@qq.com
+
+---
+
+> **“让创意落地，让代码有魂。”**
+
+欢迎交流和合作，一起创造更有趣的游戏世界！
